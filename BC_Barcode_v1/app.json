@@ -1,0 +1,26 @@
+{
+  "id": "7a090164-c576-4168-b61d-b7836778ceb0",
+  "name": "BC_Barcode_v1",
+  "publisher": "Viktor van Bochove",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://BC_Barcode_v1.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
